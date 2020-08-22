@@ -1,3 +1,3 @@
 # experiment_practise
 
-##Some experiment scripts,writen by psychopy or psychtoolbox
+Some experiment scripts,writen by psychopy or psychtoolbox
