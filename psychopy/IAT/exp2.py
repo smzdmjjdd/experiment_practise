@@ -1,4 +1,4 @@
-# Author: gmq
+
 # Date: 2020-01-04
 
 from psychopy import visual, core, event
